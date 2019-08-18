@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidEditText</string>
+    <string name="hint_text"><i>Search or Type ...</i></string>
+</resources>
